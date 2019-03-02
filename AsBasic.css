@@ -1,0 +1,27 @@
+@charset "utf-8";
+table{
+	border:outset 8px #663399;
+	border-radius:10%;
+	text-align:center;
+	background-color:#CCC;
+	box-shadow:12px 12px 12px #9966FF;
+}
+.bt{
+	background-color:#093;
+}
+
+.lbtxt{
+	//margin-left:20%;
+	font-family: verdana; 
+	color:#3A0256;
+	font-style:italic;
+	font-size:24px;
+	font-weight:900;
+}
+caption{
+	margin-top:10%;
+	font-family:'Tangerine', serif;
+	font-style:italic;
+	font-variant:small-caps;
+	color: #3A0256;
+}

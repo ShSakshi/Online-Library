@@ -1,0 +1,48 @@
+@charset "utf-8";
+a{
+    color: #fff;
+}
+
+caption {
+    font-size: 36px;
+    font-weight: 900;
+    font-style: inherit;
+    color: #000;
+}
+
+.lbtxt {
+    font-size: 24px;
+    font-weight: 800;
+    color: #000;
+}
+
+.button {
+    font-size: 32px;
+	box-shadow:4px 4px 4px #9966FF;
+    font-weight: 500;
+	margin-left:60%;
+	 border-radius:30px;
+    background-image: url(lib/bjj.jpg);
+    color: #FFF;
+}
+#menu {
+    float: right;
+    font-size: 24px;
+    font-family: "Courier New", Courier, monospace;
+    font-variant: small-caps;
+    background-color:#09C;
+    color: transparent;
+    margin-left: auto;
+    margin-right: auto;
+ 
+}
+
+#menu li {
+    display: inline-block;
+    padding-left: 4px;
+}
+
+#menu li:hover {
+    background-color:#90C;
+}
+
